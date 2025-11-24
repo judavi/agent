@@ -29,7 +29,7 @@ EOF
 
 **Why?** Git hook automatically adds JIRA ID from branch name:
 - You write: `"Add authentication middleware"`
-- Hook transforms to: `"DAX-1234: Add authentication middleware"`
+- Hook transforms to: `"POTATO-1234: Add authentication middleware"`
 
 **No heredoc. No multi-line. Just single line descriptions.**
 
